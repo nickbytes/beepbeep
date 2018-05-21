@@ -45,7 +45,7 @@ const Header = () => (
   <Container>
     <Title>Beepbeep</Title>
     <Subtitle>
-      The next beep test is: Wednesday, May 23rd, 6am @ Prospect Park
+      The next beep test is: Wednesday, May 23rd, 6:30am @ Prospect Park
     </Subtitle>
     <Help>Questions? Text Ryan.</Help>
   </Container>
